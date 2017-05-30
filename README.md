@@ -10,7 +10,7 @@ puis utilisez la commande irb ou ruby
 * Trouver l'intrus :)
 * Afficher  tous les éléments d'un tableau
 * Compter le nombre d'éléments dans un tableau. De deux façons.
-* Chercher un élément dans un table.
+* Chercher un élément dans un tableau.
 * Ordonner un tableau en utilisant une methode existante
-* Ordonner un table en utilisant un tri que vous aurez vous-même développé
+* Ordonner un tableau en utilisant un tri que vous aurez vous-même développé
 				
